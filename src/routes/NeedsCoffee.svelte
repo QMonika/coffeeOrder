@@ -59,9 +59,7 @@
 <button on:click={buttonClickHandler}>Order Coffee</button>
 </div>
 <style>
-  div{
-    background-color:yellowgreen;
-  }
+  
 
   p{
     color:red;
