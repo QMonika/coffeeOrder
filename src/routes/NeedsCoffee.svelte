@@ -36,8 +36,11 @@
     }
   }
 </script>
-<div>
 
+<div>
+  <h1>COFFEE ORDER</h1>
+</div>
+<div>
 <input type="text" bind:value={nameInput} placeholder="Enter your name" />
 
 <select bind:value={selectCoffeeType}>
